@@ -1,2 +1,11 @@
-# tgsupbot
-Telegram Support Bot
+# Telegram Support Bot
+
+## Installation
+
+## Start
+
+## Requirements
+- pyTelegramBotAPI
+- pymysql
+
+
