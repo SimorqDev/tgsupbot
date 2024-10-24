@@ -1,17 +1,16 @@
 """
 Text for bot.py
 """
+startmsg = "👋🏻 Hello! This is a bot for technical support of users.\nIf you have any questions or problems - click on the button <b>Write a request</b> and our staff will answer you soon!"
 
+agentmsg = '🔑 You are logged in as a Support Agent'
 
-
-
+agentmsgerr = '⚠️ You are not in the database. Send a one-time access password.'
 
 
 """
 TEXT for markup.py
 """
-
-
 value_m1 = "✏️ Write a request"
 value_m2 = "✉️ My requests"
 value_a1 = "❗️Waiting for a response from support"
