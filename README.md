@@ -14,7 +14,6 @@ And also a control panel for the web for Admin and Agents has been developed
 
 ## Screenshot
 
-## Start
 
 
 
