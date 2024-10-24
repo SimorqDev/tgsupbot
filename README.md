@@ -11,12 +11,6 @@ And also a control panel for the web for Admin and Agents has been developed
 - pymysql
 ## Installation
 
-nano /etc/systemd/system/lectorientb-bot.service
-sudo systemctl daemon-reload
-service lectorientb-bot start
-service lectorientb-bot status
-service lectorientb-bot stop
-service lectorientb-bot restart
 
 ## Screenshot
 
